@@ -4,6 +4,7 @@ Clone this repository to a safe place on your computer.
 
 ## Activity 1: Set Up Activity - Hello World on Modal or Beam 
 Basic Hello World
+
 **Directions**:
 - Pick a cloud platform. Modal recommended if you don't have a credit card. Beam recommended if you do have a credit card.
 - Navigate to hello-world/<cloud-platform-you-picked>
