@@ -7,11 +7,11 @@ Basic Hello World
 
 **Directions**:
 - Pick a cloud platform. Modal recommended if you don't have a credit card. Beam recommended if you do have a credit card.
-- Navigate to hello-world/<cloud-platform-you-picked>
+- Navigate to hello-world/(cloud-platform-you-picked)
 
 ## Activity 2: OpenAI Compatible Endpoint
 Together, we will setup an OpenAI compatible endpoint running LLaMA 3.2 from Meta. Will have tool calling capabilities
 
 **Directions**
 - Using the cloud platform you picked before.
-- Navigate to vllm-endpoint/<cloud-platform-you-picked>
+- Navigate to vllm-endpoint/(cloud-platform-you-picked)
